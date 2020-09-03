@@ -1,8 +1,75 @@
 {
-  "todos": [
-    {
-      "id": 1,
-      "list": "learn programming"
-    }
-  ]
+status: true,
+message: "OK",
+data: {
+data_cart: {
+cart_data: [
+{
+id_store: "3",
+kota_store: "JAKARTA TIMUR",
+name_store: "equinara_official_store",
+kurir_store: "",
+image_store: "https://horsemart.id/uploads/foto_profile/1587798182logo_Equinara.png",
+data_cart_store: [
+{
+id_store: "3",
+name_store: "equinara_official_store",
+image_store: "https://horsemart.id/uploads/foto_profile/1587798182logo_Equinara.png",
+id_cart: "233",
+id_product: "289",
+name_product: "red mills Mix 10%",
+image_product: "https://horsemart.id/uploads/data_img_product/1598327772red_mills_2_10_ID040204.png",
+qty: 1,
+price: 325000,
+subtotal: 325000,
+note: "-",
+size: "20 kg"
+},
+{
+id_store: "3",
+name_store: "equinara_official_store",
+image_store: "https://horsemart.id/uploads/foto_profile/1587798182logo_Equinara.png",
+id_cart: "231",
+id_product: "292",
+name_product: "Alcohol 70%",
+image_product: "https://horsemart.id/uploads/data_img_product/1598338567antiseptik_70_2_ID040105.png",
+qty: 2,
+price: 52000,
+subtotal: 104000,
+note: "-",
+size: "-"
+}
+],
+berat_cart_store: 0,
+total_cart_store: 429000
+},
+{
+id_store: "7",
+kota_store: "BANDUNG",
+name_store: "m@ni4k!!!",
+kurir_store: "",
+image_store: "https://horsemart.id/uploads/foto_profile/1598422482prioritas_konten.png",
+data_cart_store: [
+{
+id_store: "7",
+name_store: "m@ni4k!!!",
+image_store: "https://horsemart.id/uploads/foto_profile/1598422482prioritas_konten.png",
+id_cart: "232",
+id_product: "293",
+name_product: "ultramilk",
+image_product: "https://horsemart.id/uploads/data_img_product/15984311281.jpg",
+qty: 1,
+price: 26000,
+subtotal: 26000,
+note: "-",
+size: "M"
+}
+],
+berat_cart_store: 0,
+total_cart_store: 26000
+}
+],
+total: 455000
+}
+}
 }
